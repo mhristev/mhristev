@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Martin
+# Hey there! 👋 🥷
 
 Welcome to my GitHub! I am a motivated computer science student focused on software development, experienced in building web and mobile applications. 🚀
 
