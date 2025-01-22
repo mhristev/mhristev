@@ -24,7 +24,7 @@ Welcome to my GitHub! I am a motivated computer science student focused on softw
 
 - 📝 [Medium](https://medium.com/@mhristev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/martin-hristev-144a5a213/)
-- 📧 [Email](mhristev03@gmai.com)
+- 📧 [Email](mailto:mhristev03@gmai.com)
 
 ---
 
